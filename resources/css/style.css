@@ -1,0 +1,23 @@
+*{
+  background-color: black;
+  text-align: center;
+}
+
+.title1{
+  font-family: verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color:white;
+  text-align: center;
+}
+
+.paratitle{
+  color: aquamarine;
+  font size: 16px;
+}
+
+p{
+  font-family: Verdana;
+  font-size: 21px
+  color:grey;
+}
